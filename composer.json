@@ -1,0 +1,16 @@
+{
+    "name": "agandiscount/app",
+    "description": "Create discounts via shopify api",
+    "type": "project",
+    "require": {
+        "phpish/shopify": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastian Rasch",
+            "email": "kontakt@sebastianrasch.de"
+        }
+    ],
+    "minimum-stability": "dev"
+}
