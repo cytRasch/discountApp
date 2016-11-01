@@ -40,7 +40,8 @@ class GenerateDiscount
         'discount_type' => 'fixed_amount',
         'value' => '6.00',
         'usage_limit' => 1,
-        'status' => 'enabled'
+        'status' => 'enabled',
+        'minimum_order_amount' => '50.00',
     ];
 
     /**
